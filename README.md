@@ -1,23 +1,81 @@
-The game of rock, paper, scissors
-Greetings from my game of Rock, Paper, Scissors! This project uses **HTML**, **CSS**, and **JavaScript** to create a basic web-based game. It lets people compete with the computer in the traditional game of Rock, Paper, Scissors.
-## Features: Rock, Paper, Scissors is the option available to the user.
-One of the possibilities is chosen at random by the computer.
-The outcome is shown by the game: Win, Lose, or Draw.
-The design is responsive and clean.
 
-## How to Participate
-1. To choose from Rock, Paper, or Scissors, click on each.
-2. One of the possibilities will be selected at random by the computer.
-3. The outcome (Win, Lose, or Draw) will be shown.
+---
 
-## Technology Employed
-The game is structured using **HTML**.
-- **CSS** for layout and styling.
-**JavaScript** is used for the logic and interaction of the game.
+# ✊✋✌️ Rock-Paper-Scissor Game
 
-## Setting up
-Make a local copy of this repository.
-To begin playing, open the index.html page in your browser.
+### 🎮 A Fun Web-Based Rock-Paper-Scissors Game vs Computer
 
+This is an interactive **Rock-Paper-Scissor Game** where users play against the computer in real time. The app uses simple front-end web technologies to create a smooth and enjoyable experience.
 
+> Built using **HTML**, **CSS**, and **JavaScript**
+
+---
+
+## 🔧 Tech Stack
+
+| **Layer** | **Technology**          |
+| --------- | ----------------------- |
+| Frontend  | HTML5, CSS3, JavaScript |
+| Styling   | Custom CSS              |
+| Assets    | Image Files (JPG)       |
+| Runtime   | Any Web Browser         |
+
+---
+
+## ✨ Features
+
+* 🧠 Play vs Computer (randomized AI)
+* 🖼️ Visual choices with icons
+* 🧮 Score tracking
+* ♻️ Reset functionality
+* 🎨 Responsive and clean interface
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/rock-paper-scissor-game.git
+cd rock-paper-scissor-game
+```
+
+---
+
+### 2️⃣ Run the Game
+
+Open the `index.html` file in any web browser:
+
+```bash
+start index.html
+```
+
+> *(Best viewed with Live Server or a local web server.)*
+
+---
+
+## 🗂️ Project Structure
+
+```bash
+📁 Rock-Paper-Scissor-Game-main/
+├── index.html         # Game UI
+├── style.css          # Custom styling
+├── app.js             # Game logic and control
+├── rock.jpg           # Rock icon
+├── paper.jpg          # Paper icon
+├── scissors.jpg       # Scissors icon
+├── README.md          # Project info
+```
+
+---
+
+## 🙋‍♂️ Author
+
+**👨‍💻 Manish Singh**
+📧 `manishsingh8303@gmail.com`
+
+📘 *Developed as a beginner JavaScript practice game.*
+
+---
 
